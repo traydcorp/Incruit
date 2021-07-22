@@ -16,4 +16,4 @@ trayd Incruit file
 ![incruit](./recruit_210714_6.png)
 ![incruit](./recruit_210714_7.png)
 ![incruit](./NOTION_BUTTON_430_76.png)
-![incruit](./HP_BUTTON_430_76.png)
+![incruit](./HP_button_430_76.png)
